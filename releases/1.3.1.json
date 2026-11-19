@@ -1,0 +1,28 @@
+{
+  "version": "1.3.1",
+  "published_at": "2026-11-19T03:16:58.224386+00:00",
+  "status_at_publication": "off",
+  "previous_version_status_at_publication": "off",
+  "authorization_url": "https://www.xrt666.top/jc-license-v2/authorize.php",
+  "server_config_path": "/private/jc-license-v2/config.json",
+  "on_config": {
+    "status": "on",
+    "min_version": "1.3.1"
+  },
+  "off_config": {
+    "status": "off",
+    "min_version": "1.3.1"
+  },
+  "downloads": {
+    "JiChuangStudio-1.3.1.exe": {
+      "size": 12493312,
+      "sha256": "7167a42f64bd6de9dd62aa00aaabdc9f35d527287d5c2901382a6f59004724f0",
+      "url": "https://www.xrt666.top/jc-downloads/1.3.1-9d18166b446796d6e803/get.php?file=app"
+    },
+    "JiChuangStudio-1.3.1-Windows.zip": {
+      "size": 51277590,
+      "sha256": "5a7fe9be684f940530d83e9fc924ac037117178040e9a65993f3e2d303aea6ce",
+      "url": "https://www.xrt666.top/jc-downloads/1.3.1-9d18166b446796d6e803/get.php?file=package"
+    }
+  }
+}
