@@ -1,0 +1,33 @@
+{
+  "version": "1.3.3",
+  "display_name": "即创自动化",
+  "published_at": "2026-11-19T04:01:53.108937+00:00",
+  "status_at_publication": "off",
+  "requires_password": true,
+  "password_management": "server private config; password not stored in GitHub",
+  "remember_password": {
+    "mechanism": "Windows current-user DPAPI",
+    "default_checked": true,
+    "autofill_on_restart": true,
+    "auto_submit": false,
+    "uncheck_clears_saved_password": true,
+    "verified_invalid_password_clears_matching_saved_password": true
+  },
+  "authorization_schema": 2,
+  "authorization_url": "https://www.xrt666.top/jc-license-v2/authorize.php",
+  "server_config_path": "/private/jc-license-v2/config.json",
+  "password_config_field": "card_key",
+  "minimum_version": "1.3.2",
+  "downloads": {
+    "JiChuangStudio-1.3.3.exe": {
+      "url": "https://www.xrt666.top/jc-downloads/1.3.3-1aab2a29eb91bfb4a4c7/get.php?file=app",
+      "size": 12537344,
+      "sha256": "b2fe2ccfdfd1cb9e0f39e93ff70bf758a9f6ced7e1f1e0ee10f9ea135c158ce2"
+    },
+    "JiChuangStudio-1.3.3-Windows.zip": {
+      "url": "https://www.xrt666.top/jc-downloads/1.3.3-1aab2a29eb91bfb4a4c7/get.php?file=package",
+      "size": 51324304,
+      "sha256": "683686abaebe97048d9d32b5e5abab12c19d0333c48f183a49f0236260129a4c"
+    }
+  }
+}
